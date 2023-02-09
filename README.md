@@ -1,7 +1,7 @@
 ### Hi there 👋
 ![](https://komarev.com/ghpvc/?username=HoussemTN&color=green)
 
-- 🔭 I’ve just released a new Flutter Application : [Dictatext](https://play.google.com/store/apps/details?id=com.devBrains404.dictatext) Available Now ! 
+- 🔭 I’m currently preparing a new interesting Course ! 
 - 🌱 I’m currently working on some interesting projects like [DevBrains.tn](https://devbrains.tn)
 - :video_camera: You can check my courses in Tunisian Arabic accent on my YouTube channel [DevBrains](https://www.youtube.com/channel/UCN_ctzjN2ubxoUydJ8yTjaA)
 - :tada: You can Download my apps on [Google Play](https://play.google.com/store/apps/dev?id=5420160174600557858)
